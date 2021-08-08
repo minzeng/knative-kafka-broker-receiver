@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative-kafka-broker-receiver:b5a96e54-23b9-11eb-a9b2-767fa62a0486
+FROM gcr.io/knative-releases/knative-kafka-broker-receiver:2a2ff824-d913-11eb-b986-fe4c7604488d
